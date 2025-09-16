@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798195357734",
+    "project_id": "imagebook-b13cd",
+    "storage_bucket": "imagebook-b13cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798195357734:android:ec0c0fc7f61af59a9e2ee7",
+        "android_client_info": {
+          "package_name": "com.kavimark.imagebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR5B3IUnXZu6u0lZdQdHZCGEf_QDPIhIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
